@@ -1,0 +1,10 @@
+pytrends==4.7.3
+pandas==1.2.2
+requests==2.25.1
+requests_html==0.10.0
+newsapi_python==0.2.6
+tabulate==0.8.9
+yahoo_fin==0.8.7
+telegram==0.0.1
+newsapi==0.1.1
+portfolio==0.1
